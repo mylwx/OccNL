@@ -10,7 +10,8 @@ The official implementation of OccNL
 ## Demo
 [Demo video](https://github.com/user-attachments/assets/46101b0f-2f8a-4080-89a2-c217f1c27c0c)
 
-
+A higher resolution version of the demo video can be found here: 
+[Bilibili Link](https://www.bilibili.com/video/BV1zNNMzSEyS/)
 
 
 

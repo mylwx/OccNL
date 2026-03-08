@@ -8,7 +8,11 @@ The official implementation of OccNL
 
 
 ## Demo
-[Demo video](https://github.com/user-attachments/assets/085b6ca7-e682-49ac-b1f9-4c330e54d2a7)
+[Demo video](https://github.com/user-attachments/assets/46101b0f-2f8a-4080-89a2-c217f1c27c0c)
+
+
+
+
 
 
 
